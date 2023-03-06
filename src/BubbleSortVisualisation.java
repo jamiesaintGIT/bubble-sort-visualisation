@@ -35,6 +35,7 @@ public class BubbleSortVisualisation {
             visualise(arr);
         }
     }
+
     /*
     * Outputs array in a visual, bar-chart style format
     * @param arr -> array to display
